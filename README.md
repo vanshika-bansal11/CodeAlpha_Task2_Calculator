@@ -9,7 +9,5 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript. This p
 <br>
 🛠️ Technologies Used<br>
 <b>HTML</b> – for structuring the calculator layout<br>
-
 <b>CSS</b> – for styling and responsiveness<br>
-
 <b>JavaScript</b> – for implementing the calculator logic and interactivity
